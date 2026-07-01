@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0326/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0326/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩阿麼𪘨法
+  identifiers:
+    krp: KR6j0326
+    cbeta: T20n1115
+    cbeta_old_id: T20n1115
+    authorityid: CA0001261
+    json_key: T1115
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1115.xml
+    old_id: T20n1115
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0326_000-T.yaml, hash: 'sha256:88905ff0d4b796fda1ee5dd75a660e20ea039c804347c1030100f541cc48f52e'}
+  - {seq: 1, filename: KR6j0326_001-T.yaml, hash: 'sha256:93a76578376856396b13e5bd7c09c5bbf36bf86771ed7e20d6e2909feab40118'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0326_000-T.markers.yaml, hash: 'sha256:182f92440183bfd4ac6494a069f9b5e0dd89c64eade8adc98dd4c58816132cb6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0326_001-T.markers.yaml, hash: 'sha256:2963fd1484df2d41f84f943b33ba42bb0e4feb90c7705d97e00150f40e8e3dc4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0326_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1186
+  label: 觀自在菩薩阿麼𪘨法此云無畏又云寬廣
+  type: juan
+  level: 1
+hash: sha256:ccb35944ad9a5cc53d851b941ac966ee795616a5083cf3411d2251e5f81d57e2

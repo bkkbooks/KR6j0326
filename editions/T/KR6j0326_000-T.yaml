@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0326/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩阿麼𪘨法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1115.xml
+    old_id: T20n1115
+hash: sha256:88905ff0d4b796fda1ee5dd75a660e20ea039c804347c1030100f541cc48f52e
