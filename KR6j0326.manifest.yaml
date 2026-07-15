@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0326/v1
 canonical_location: https://kanripo.org/bkk/KR6j0326/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀自在菩薩阿麼𪘨法
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0326_000.yaml, hash: 'sha256:88905ff0d4b796fda1ee5dd75a660e20ea039c804347c1030100f541cc48f52e'}
-  - {seq: 1, filename: KR6j0326_001.yaml, hash: 'sha256:93a76578376856396b13e5bd7c09c5bbf36bf86771ed7e20d6e2909feab40118'}
+  - {seq: 1, filename: KR6j0326_001.yaml, hash: 'sha256:0daa5376b49e88aced59dbc15e7a8f52629f701c06f2dab9159d30a0796e016f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0326_000.markers.yaml, hash: 'sha256:391cd889a4c040f6a9fbabcf4fb1461360b8aa8bff52cca14d6a411f3aa88db6'}
-  - {seq: 1, role: markers, filename: assets/KR6j0326_001.markers.yaml, hash: 'sha256:6d7ffed7494a41bce8d747990e492022ebe21b181e6bb9acc90af0366695ad4a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0326_001.markers.yaml, hash: 'sha256:bcf19d2dbd83254dc364937e240f0f594161825433b0ee1abb1ea6469d75ddfe'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 觀自在菩薩阿麼𪘨法此云無畏又云寬廣
   type: juan
   level: 1
-hash: sha256:f0049fd09d1a44fef10179b94a80ca1d9223b81a77ae365d4316395fc323e5da
+hash: sha256:fa156fba49383e720ac6c1b7061d4ffa22fdf40242e39911d8c8c44c96a16e92
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
